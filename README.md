@@ -1,4 +1,4 @@
-# Text Based Person Search with Limited Data
+# Learning Granularity-Unified Representations for Text-to-Image Person Re-identification
 
 This is the codebase for our [ACM MM 2022 paper](https://arxiv.org/abs/2207.07802).
 ```bash
