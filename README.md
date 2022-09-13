@@ -1,7 +1,7 @@
 # Text Based Person Search with Limited Data
 
 This is the codebase for our [ACM MM 2022 paper](https://arxiv.org/abs/2207.07802).
-
+```bash
 datasets
 └── cuhkpedes
     ├── captions.json
@@ -35,7 +35,6 @@ python processed_data_singledata_ICFG.py
 ### Train
 ```bash
 python train_mydecoder_pixelvit_txtimg_3_bert.py
-```
 ```
 
 ## Citation
