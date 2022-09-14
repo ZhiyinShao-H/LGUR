@@ -40,10 +40,10 @@ python train_mydecoder_pixelvit_txtimg_3_bert.py
 ## Citation
 If you find this project useful for your research, please use the following BibTeX entry.
 ```
-@article{shao2022learning,
+@inproceedings{shao2022learning,
   title={Learning Granularity-Unified Representations for Text-to-Image Person Re-identification},
   author={Shao, Zhiyin and Zhang, Xinyu and Fang, Meng and Lin, Zhifeng and Wang, Jian and Ding, Changxing},
-  journal={arXiv preprint arXiv:2207.07802},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
   year={2022}
 }
 ```
