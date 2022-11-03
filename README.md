@@ -23,7 +23,7 @@ datasets
 
 ### Download DeiT-small weights
 ```bash
-wget https://dl.fbaipublicfiles.com/deit/deit_base_distilled_patch16_224-df68dfff.pth
+wget https://dl.fbaipublicfiles.com/deit/deit_small_distilled_patch16_224-649709d9.pth
 ```
 ### Process image and text datasets
 ```bash
